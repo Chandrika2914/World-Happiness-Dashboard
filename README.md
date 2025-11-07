@@ -86,6 +86,7 @@ Key questions explored:
 
 ## Author
 
-**Chandrika Patibandla**
-Focused on transforming global data into meaningful visual insights.
+**Chandrika Patibandla**  
+Focused on building clear, data-driven visual solutions that communicate insights effectively.  
 [Tableau Public Profile](https://public.tableau.com/app/profile/chandrika.patibandla1429)
+
