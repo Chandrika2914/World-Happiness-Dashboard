@@ -5,8 +5,13 @@ The goal is to visually compare how different regions rank in overall well-being
 
 ---
 
-## Live Visualization
-[View on Tableau Public](https://public.tableau.com/app/profile/chandrika.patibandla1429/viz/WorldHappinessReport-2021/WorldHappinessReport-2021)
+## Dashboard Preview
+
+<p align="center">
+  <img src="./images/World_Happiness_Report_2021.png" width="90%">
+</p>
+
+<p align="center"><em>Figure: Global distribution and comparison of happiness across regions and economic factors.</em></p>
 
 ---
 
@@ -62,15 +67,6 @@ Key questions explored:
 - Despite economic factors, social support and freedom contribute significantly to higher scores.
 
 ---
-## Dashboard Preview
-
-<p align="center">
-  <img src="./images/World_Happiness_Report_2021.png" width="90%">
-</p>
-
-<p align="center"><em>Figure: Global distribution and comparison of happiness across regions and economic factors.</em></p>
-
----
 
 ## Tools and Skills
 
@@ -81,6 +77,11 @@ Key questions explored:
 | Analytics           | Calculated Fields, Aggregations, Correlation Analysis               |
 | Design Practices    | Layout organization, color encoding, interactive storytelling      |
 | Version Control     | Git, GitHub,                    |
+
+---
+
+## Live Visualization
+[View on Tableau Public](https://public.tableau.com/app/profile/chandrika.patibandla1429/viz/WorldHappinessReport-2021/WorldHappinessReport-2021)
 
 ---
 
